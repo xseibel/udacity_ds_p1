@@ -4,7 +4,7 @@ This project is about analyzing the relationship between salary, job satisfactio
 The analysis is done in juypter notebook with python 3 and the help of pandas, numpy and seaborn.
 You find it in the following file: uda_project1.ipynb
 
-The main question I'm trying to answer is, if salary is a suitable measure to influence ones job satisfaction. I will break down this question with into the following three question:
+The main question I'm trying to answer is, if salary is a suitable measure to influence ones job satisfaction. I will break down this question into the following three question:
 * Q1: What is the relationship between JobSatisfaction and Salary?
 * Q2. What is the relationship between Salary and YearsProgramJob (Experience)?
 * Q3: What is the relationship between JobSatisfaction and YearsProgramJob (Experience?)
