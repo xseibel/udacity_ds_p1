@@ -11,7 +11,7 @@ The main question I'm trying to answer is, if salary is a suitable measure to in
 
 The key findings are, that there is a correlation between salary and job satisfaction, however the causality is not clear. It is not the result of salary increase based over years of job experience.
 
-See also my medium post with some condensed interpretation: https://medium.com/@252.at.work/salary-expericene-and-job-satisfaction-6b2fb974b849
+See also my medium post with some condensed interpretation: https://medium.com/@252.at.work/salary-expericene-and-job-satisfaction-6b2fb974b849?source=friends_link&sk=d05e34a670cf950868ef16f0abad0cf8
 
 The analysis is done in jupyter notebook. The survey data is not included in this repository; you will need to download it from the kaggle link above. You will need the following python packages to run this jupyter notebook successfully. (You can install them via pip install <package>)
 
