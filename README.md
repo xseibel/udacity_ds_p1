@@ -1,7 +1,8 @@
 # About
 This project is about analyzing the relationship between salary, job satisfaction and years of programing (a.k.a job experience) of developers from the US. This analysis is based on the data of Stackoverflow’s 2017 Annual Developer Survey (see https://www.kaggle.com/stackoverflow/so-survey-2017/data#). The analysis follows the CRISP-DM process.
 
-The analysis is done in python 3 with the help of pandas, numpy and seaborn and is done in a jupyter notebook.
+The analysis is done in juypter notebook with python 3 and the help of pandas, numpy and seaborn.
+You find it in the following file: uda_project1.ipynb
 
 The main question I'm trying to answer is, if salary is a suitable measure to influence ones job satisfaction. I will break down this question with into the following three question:
 * Q1: What is the relationship between JobSatisfaction and Salary?
